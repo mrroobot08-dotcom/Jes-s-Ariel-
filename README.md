@@ -99,12 +99,11 @@ Construir e implementar un sistema digital de pedidos para el cafetín, que perm
 - Notificaciones push
 - Reportes/analítica
 
----
+
 
 ## 7. Mockup inicial (baja fidelidad)
 Para cumplir el entregable, dejé el mockup en la carpeta:
-
-- `/docs/mockups/mockup.jpg` *(o link si lo hice en Figma/draw.io)*
+https://www.figma.com/design/H4VqEYkEOCiEayaSoyb2h7/cafetin?node-id=4-2&p=f&t=5oByPbSOA7sxDZUY-0
 
 Pantallas mínimas:
 1) Catálogo  
@@ -112,7 +111,7 @@ Pantallas mínimas:
 3) Confirmación (código)  
 4) Panel cafetín (lista + estados)
 
----
+
 
 ## 8. Backlog / Plan de trabajo (Historias de usuario)
 > Estimación: **S / M / L**
@@ -150,7 +149,6 @@ Pantallas mínimas:
 - **HU11 (S):** Como usuario quiero buscar o filtrar productos para encontrarlos rápido.  
   **Criterios:** buscar por nombre, filtro por categoría si existe.
 
----
 
 ## 9. Modelo de datos (propuesto)
 
@@ -184,12 +182,7 @@ Pantallas mínimas:
 - precio_unitario
 - subtotal
 
----
 
-## 10. Estructura sugerida del repositorio
-- `README.md`
-- `docs/mockups/` (mockup en imagen o link)
-- `docs/backlog.md` (opcional)
-- `docs/modelo_datos.md` (opcional)
-- `backend/` y `frontend/` (si se implementa)
+
+
 
